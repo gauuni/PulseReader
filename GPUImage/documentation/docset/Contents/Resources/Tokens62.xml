@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/GPUImageHistogramEqualizationFilter.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/GPUImageHistogramEqualizationFilter</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>GPUImageHistogramEqualizationFilter.h</DeclaredIn>
+            
+			
+			<NodeRef refid="62"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/GPUImageHistogramEqualizationFilter/setDownsamplingFactor:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>GPUImageHistogramEqualizationFilter.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, nonatomic) NSUInteger downsamplingFactor</Declaration>
+			
+			
+			<Anchor>//api/name/downsamplingFactor</Anchor>
+            <NodeRef refid="62"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/GPUImageHistogramEqualizationFilter/downsamplingFactor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>GPUImageHistogramEqualizationFilter.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, nonatomic) NSUInteger downsamplingFactor</Declaration>
+			
+			
+			<Anchor>//api/name/downsamplingFactor</Anchor>
+            <NodeRef refid="62"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/GPUImageHistogramEqualizationFilter/downsamplingFactor</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>GPUImageHistogramEqualizationFilter.h</DeclaredIn>
+			
+			<Declaration>@property (readwrite, nonatomic) NSUInteger downsamplingFactor</Declaration>
+			
+			
+			<Anchor>//api/name/downsamplingFactor</Anchor>
+            <NodeRef refid="62"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/GPUImageHistogramEqualizationFilter/initWithHistogramType:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>GPUImageHistogramEqualizationFilter.h</DeclaredIn>
+			
+			<Declaration>- (id)initWithHistogramType:(GPUImageHistogramType)newHistogramType</Declaration>
+			
+			
+			<Anchor>//api/name/initWithHistogramType:</Anchor>
+            <NodeRef refid="62"/>
+		</Token>
+		
+        
+        
+	</File>
+</Tokens>
